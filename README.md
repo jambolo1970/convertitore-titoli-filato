@@ -41,6 +41,6 @@ aprire un terminale
 lanciare il programma col comando
 
 ```
-python convertitore_filato.py
+python convertitore-filato.py
 ```
 sostituire python se non funziona con la versione installata esempio `python3`
